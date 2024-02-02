@@ -1,1 +1,19 @@
-[]
+[
+	{
+		"names": [
+			"JAPANESE_EISUU"
+		],
+		"description": "JAPANESE_EISUU",
+		"clarify": false,
+		"documentation": "",
+		"os": {
+			"windows": true,
+			"linux": true,
+			"android": true,
+			"macos": true,
+			"ios": true
+		},
+		"footnotes": {},
+		"type": "UD"
+	}
+]
